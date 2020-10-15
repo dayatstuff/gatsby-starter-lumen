@@ -40,6 +40,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
+      qwiklabs: 'https://www.qwiklabs.com/public_profiles/a7583bb9-a713-42de-9222-fa052c256c2f',
     }
   }
 };
