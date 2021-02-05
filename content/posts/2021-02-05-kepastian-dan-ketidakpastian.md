@@ -15,6 +15,10 @@ tags:
   - blog
   - renungan
 ---
+![](/media/jamie-street-Bc9DPNExOV8-unsplash (1).jpg)
+
+
+
 Setelah cukup lama tertahan akhirnya pada Februari 2021 ini ditempatkan pada keadaan yang mengharuskan untuk istirahat bekerja di Perusahaan yang sudah lebih dari 8 tahun ini saya bekerja. Surat permohonan pun dikirimkan kepada atasan dan dengan diikuti diskusi akhirnya diputuskan untuk disetujui permohonan yang diajukan tersebut.
 
 Meskipun di dalam hati muncul rasa yang bercampur-aduk dan bergulir di dada dan pikiran. Juga terkadang muncul hembusan (was-was) kekhawatiran atau ketakutan akan kondisi ke depan akan seperti apa. Selain karena sebagai suami dan ayah dua anak yang masih kecil-kecil, juga kondisi orang tua dan mertua yang perlu juga untuk diperhatikan atau sekedar tidak menambah beban atau merepotkan mereka.
@@ -42,16 +46,8 @@ Di dalam ketidakpastian di dunia ini, sebenarnya sudah ada kepastian yang dituli
 
 > Yang sudah diatur oleh ALLAH, tidak perlu kita sibuk ikut mengaturnya, karena ALLAH Maha Sempurna Pengaturannya
 
-
-
 Mengutip Al Hikam :
 
 > **Istirahatkan dirimu dari kesibukan mengurusi duniamu. Urusan yang telah diatur ALLAH tak perlu kau sibuk ikut campur.** 
-
-
-
-
-
-
 
 *Hidayat*
