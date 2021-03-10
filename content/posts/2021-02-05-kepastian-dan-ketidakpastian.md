@@ -15,9 +15,9 @@ tags:
   - blog
   - renungan
 ---
-![](https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1080&q=80)
 
 
+`<img src="`https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1080&q=80`" />`
 
 Setelah cukup lama tertahan akhirnya pada Februari 2021 ini ditempatkan pada keadaan yang mengharuskan untuk istirahat bekerja di Perusahaan yang sudah lebih dari 8 tahun ini saya bekerja. Surat permohonan pun dikirimkan kepada atasan dan dengan diikuti diskusi akhirnya diputuskan untuk disetujui permohonan yang diajukan tersebut.
 
